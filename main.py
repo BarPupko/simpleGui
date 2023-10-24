@@ -4,6 +4,8 @@ import time
 import subprocess
 
 
+# this software is to make you rest everytime in a while.
+
 def open_program():
     root = tk.Tk()
     root.title("Break from PC")
